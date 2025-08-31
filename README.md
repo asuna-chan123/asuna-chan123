@@ -56,7 +56,7 @@
 
   <!-- Elementor -->
   <a href="https://elementor.com/" target="_blank"> 
-    <img src="https://seeklogo.com/images/E/elementor-logo-B230F2C0EB-seeklogo.com.png" alt="elementor" width="40" height="40"/> 
+    <img src="https://wpml.org/plugin/elementor/" alt="elementor" width="40" height="40"/> 
   </a> 
 
   <!-- GSAP -->
