@@ -1,5 +1,4 @@
 
-preview
 <h1 align="center">Hi 👋, I'm Nguyen Ngoc Duy Khanh</h1>
 <h3 align="center">A passionate frontend developer from VietNam</h3>
 
