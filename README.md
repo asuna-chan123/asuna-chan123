@@ -56,8 +56,8 @@
 
   <!-- Elementor -->
   <a href="https://elementor.com/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Elementor_logo.svg" alt="elementor" width="40" height="40"/> 
-  </a> 
+    <img src="https://brandslogos.com/wp-content/uploads/images/large/elementor-logo.png" alt="elementor" width="40" height="40"/> 
+  </a>
 
   <!-- GSAP -->
   <a href="https://greensock.com/gsap/" target="_blank"> 
