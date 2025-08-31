@@ -47,3 +47,31 @@
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
   </a> 
 </p>
+## ⚙️ Tools  
+
+<p align="left">  
+  <!-- Figma -->
+  <a href="https://www.figma.com/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
+  </a> 
+
+  <!-- WordPress -->
+  <a href="https://wordpress.org/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" alt="wordpress" width="40" height="40"/> 
+  </a> 
+
+  <!-- Elementor -->
+  <a href="https://elementor.com/" target="_blank"> 
+    <img src="https://seeklogo.com/images/E/elementor-logo-B230F2C0EB-seeklogo.com.png" alt="elementor" width="40" height="40"/> 
+  </a> 
+
+  <!-- GSAP -->
+  <a href="https://greensock.com/gsap/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/gsap.svg" alt="gsap" width="40" height="40"/> 
+  </a> 
+
+  <!-- Google Cloud -->
+  <a href="https://cloud.google.com/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="google cloud" width="40" height="40"/> 
+  </a> 
+</p>
