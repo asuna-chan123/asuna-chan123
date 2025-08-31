@@ -53,12 +53,12 @@
   <a href="https://wordpress.org/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" alt="wordpress" width="40" height="40"/> 
   </a> 
-
+  
   <!-- Elementor -->
   <a href="https://elementor.com/" target="_blank"> 
-    <img src="https://brandslogos.com/wp-content/uploads/images/large/elementor-logo.png" alt="elementor" width="40" height="40"/> 
+    <img src="https://cdn.worldvectorlogo.com/logos/elementor-1.svg" alt="elementor" width="40" height="40"/> 
   </a>
-
+  
   <!-- GSAP -->
   <a href="https://greensock.com/gsap/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/greensock-icon.svg" alt="gsap" width="40" height="40"/> 
