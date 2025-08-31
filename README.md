@@ -40,7 +40,7 @@
   </a> 
 </p>
 
-## ⚙️ Languages and Tools  
+## ⚙️ Tools  
 
 <p align="left">  
   <a href="https://www.figma.com/" target="_blank"> 
