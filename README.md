@@ -68,4 +68,10 @@
   <a href="https://cloud.google.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="google cloud" width="40" height="40"/> 
   </a> 
+
+    <!-- Git -->
+  <a href="https://www.git.com/" target="_blank"> 
+    <img src="https://avatars.githubusercontent.com/u/18133?s=200&v=4" alt="figma" width="40" height="40"/> 
+  </a> 
+
 </p>
