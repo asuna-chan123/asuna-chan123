@@ -56,7 +56,7 @@
   
   <!-- Elementor -->
   <a href="https://elementor.com/" target="_blank"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/elementor-1.svg" alt="elementor" width="40" height="40"/> 
+    <img src="https://www.e-informatique.ch/wp-content/uploads/2019/05/elementor_icon_gradient-100x100.png" alt="elementor" width="40" height="40"/> 
   </a>
   
   <!-- GSAP -->
