@@ -56,12 +56,12 @@
 
   <!-- Elementor -->
   <a href="https://elementor.com/" target="_blank"> 
-    <img src="https://wpml.org/plugin/elementor/" alt="elementor" width="40" height="40"/> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Elementor_logo.svg" alt="elementor" width="40" height="40"/> 
   </a> 
 
   <!-- GSAP -->
   <a href="https://greensock.com/gsap/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/gsap.svg" alt="gsap" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/greensock-icon.svg" alt="gsap" width="40" height="40"/> 
   </a> 
 
   <!-- Google Cloud -->
