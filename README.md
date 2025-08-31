@@ -42,20 +42,8 @@
 
 ## ⚙️ Languages and Tools  
 
-<p align="left"> 
-  <a href="https://styled-components.com/" target="_blank"> 
-    <img src="https://avatars.githubusercontent.com/u/20658825?s=200&v=4" alt="styled-components" width="40" height="40"/> 
-  </a> 
-  <a href="https://jestjs.io/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.cypress.io/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/cypress-io/cypress-icons/master/src/icons/icon_32x32.png" alt="cypress" width="40" height="40"/> 
-  </a> 
+<p align="left">  
   <a href="https://www.figma.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.notion.so/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/notion/notion-icon.svg" alt="notion" width="40" height="40"/> 
   </a> 
 </p>
