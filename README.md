@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Nguyen Ngoc Duy Khanh</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=A+passionate+frontend+developer+from+VietNam;No+Nonsense-Dev+Knowledge;Add+a+description+to+your+repo!;Make+your+readme+stand+out!&font=Fira%20Code&center=true&width=580&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines=A+passionate+frontend+developer+from+VietNam;No+Nonsense-Dev+Knowledge;Animation+&+ Design;Make+your+readme+stand+out!&font=Fira%20Code&center=true&width=580&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
 
 - 🌱 I’m currently learning **HUFLIT University**
